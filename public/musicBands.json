@@ -1,0 +1,167 @@
+[
+    {
+      "id": 1,
+      "name": "Ashes",
+      "vocal": "Zunayed Evan",
+      "guitarist": "Sultan Rafsan",
+      "genre": "Rock",
+      "totalSongs": 17,
+      "fee": 40000,
+      "popular_song": "Tamak Pata",
+      "cover_photo": "https://i.ibb.co/wpKKfd1/ashesh.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Artcell",
+      "vocal": "George Lincoln",
+      "guitarist": "Ershad Zaman",
+      "genre": "Metal",
+      "totalSongs": 18,
+      "fee": 60000,
+      "popular_song": "Oniket Prantor",
+      "cover_photo": "https://i.ibb.co/ngctqyM/artcell.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Shironamhin",
+      "vocal": "Sheikh Istiaque",
+      "guitarist": "Diat",
+      "genre": "Rock",
+      "totalSongs": 21,
+      "fee": 50000,
+      "popular_song": "Ei Obelay",
+      "cover_photo": "https://i.ibb.co/h2pznbr/shironamhin.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Meghdol",
+      "vocal": "Shibu",
+      "guitarist": "Shoib",
+      "genre": "Rock",
+      "totalSongs": 31,
+      "fee": 20000,
+      "popular_song": "Esho Amar Shohore",
+      "cover_photo": "https://i.ibb.co/sJZ0Yhf/meghdol.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Aurthohin",
+      "vocal": "Bassbaba Sumon",
+      "guitarist": "Raef al Hasan Rafa",
+      "genre": "Groove Metal",
+      "totalSongs": 32,
+      "fee": 55000,
+      "popular_song": "Odvut Sei Cheleti",
+      "cover_photo": "https://i.ibb.co/Y8cvR6q/Aurthohin.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Nemesis",
+      "vocal": "Zohad Reza Chowdhury",
+      "guitarist": "Sultan Rafsan Khan",
+      "genre": "Alternative Rock",
+      "totalSongs": 30,
+      "fee": 30000,
+      "popular_song": "Obocheton",
+      "cover_photo": "https://i.ibb.co/r3n7F0f/nemesis.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Arbovirus",
+      "vocal": "Sufi Maverick",
+      "guitarist": "Suharto Sherif",
+      "genre": "Alternative Rock",
+      "totalSongs": 32,
+      "fee": 47000,
+      "popular_song": "School",
+      "cover_photo": "https://i.ibb.co/q0vcHdZ/arbovirus.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Avash",
+      "vocal": "Tanzir Tuhin",
+      "guitarist": "Rajue Sheikh",
+      "genre": "Rock",
+      "totalSongs": 14,
+      "fee": 29500,
+      "popular_song": "Avash Title Track",
+      "cover_photo": "https://i.ibb.co/s5v71nT/avash.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Shunno",
+      "vocal": "Emil",
+      "guitarist": "Shaker",
+      "genre": "Pop",
+      "totalSongs": 32,
+      "fee": 20000,
+      "popular_song": "Behula",
+      "cover_photo": "https://i.ibb.co/174s7Rq/shunno.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Joler Gan",
+      "vocal": "Rahul Ahmed",
+      "guitarist": "ABS Xem",
+      "genre": "Folk",
+      "totalSongs": 30,
+      "fee": 41500,
+      "popular_song": "Amon Jodi Hoto",
+      "cover_photo": "https://i.ibb.co/smg2QRy/joler-gan.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Warfaze",
+      "vocal": "Mizan",
+      "guitarist": "Kamal",
+      "genre": "Heavy Metal",
+      "totalSongs": 40,
+      "fee": 65000,
+      "popular_song": "Purnota",
+      "cover_photo": "https://i.ibb.co/xCBdbpy/warfaze.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Adverb",
+      "vocal": "Pranto Williwaw",
+      "guitarist": "Rex Abaddon",
+      "genre": "Rock",
+      "totalSongs": 4,
+      "fee": 10000,
+      "popular_song": "Kotodur",
+      "cover_photo": "https://i.ibb.co/D1NnqBj/adverb.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Odd Signature",
+      "vocal": "Ahsan Tanvir Pial",
+      "guitarist": "Montasir Rakib",
+      "genre": "Rock",
+      "totalSongs": 4,
+      "fee": 15000,
+      "popular_song": "Amar Dehokhan",
+      "cover_photo": "ttps://i.ibb.co/f915ghD/odd-signature.png"
+    },
+    {
+      "id": 14,
+      "name": "Popeye",
+      "vocal": "Talat Minhaz",
+      "guitarist": "Talat Minhaz",
+      "genre": "Rock",
+      "totalSongs": 8,
+      "fee": 18000,
+      "popular_song": "Bishonno Sundor",
+      "cover_photo": "https://i.ibb.co/M8JTzM7/popeye.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Bay of Bengal",
+      "vocal": "Bakhtiar Hossain",
+      "guitarist": "Kazi Wahed Altaher",
+      "genre": "Rock",
+      "totalSongs": 11,
+      "fee": 40000,
+      "popular_song": "Je Shohorey Ami Nei",
+      "cover_photo": "https://i.ibb.co/0M3mNzB/bay-of-bengal.jpg"
+    }
+  ]
