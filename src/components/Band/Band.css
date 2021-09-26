@@ -38,8 +38,8 @@
 .band-info button{
     margin-top: 10px;
     padding: 10px 15px 8px 15px;
-    background-color: orangered;
-    border: 2px solid orangered;
+    background-color: rgb(216, 60, 3);
+    border: 2px solid rgb(216, 60, 3);
     border-radius: 2px;
     color: white;
     text-align: center;
@@ -47,7 +47,7 @@
 }
 .band-info button:hover{
     background-color: transparent;
-    color: orangered;
+    color: rgb(216, 60, 3);
     transition: all 0.5s ease;
     font-weight: bold;
 }
