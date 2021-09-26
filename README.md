@@ -1,6 +1,8 @@
 # Music Fest
 
-You can visit our visit from here `https://music-fest-prantokhaan.netlify.app/`
+You can visit our website by copying this `https://music-fest-prantokhaan.netlify.app/`
+
+or [You can click here](https://music-fest-prantokhaan.netlify.app/)
 
 # About Music Fest
 - music fest usually organize music festivals
