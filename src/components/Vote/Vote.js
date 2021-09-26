@@ -6,14 +6,10 @@ const Vote = (props) => {
     // Destructure 
     const {vote} = props;
 
-    // Set Data 
-    let name = '';
-    let popularSong = '';
+    // Set Fee
     let fee = 0;
     for(const band of vote){
-        name = band.name;
         fee = fee + band.fee;
-        popularSong = band.popularSong;
     }
     
     return (
