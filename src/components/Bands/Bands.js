@@ -5,6 +5,7 @@ import './Bands.css';
 
 
 const Bands = () => {
+    // State and Effect Used 
     const [bands, setBands] = useState([]);
     const [vote, setVote] = useState([]);
 
@@ -14,6 +15,7 @@ const Bands = () => {
         .then(data => setBands(data));
     }, []);
 
+    // Vote Button 
     const handleVoteButton = band => {
         const newVote = [...vote, band];
         setVote(newVote);

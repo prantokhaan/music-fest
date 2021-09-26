@@ -1,9 +1,11 @@
+/* Primay Color and Background */
 .color-primary{
     color: #ed8b20;
 }
 .background{
     background-color: white;
 }
+/* Festival Section Design  */
 .festival{
     display: grid;
     grid-template-columns: repeat(2, 1fr);

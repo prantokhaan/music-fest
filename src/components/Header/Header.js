@@ -7,6 +7,7 @@ const Header = () => {
     return (
         <div>
             <div className="header">
+                {/* Nav Bar  */}
                 <nav className="d-flex justify-content-between">
                     <div className="navbar-links">
                         <a href="/home">Home</a>

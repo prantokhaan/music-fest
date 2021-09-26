@@ -2,8 +2,10 @@ import React from 'react';
 import './Votelist.css';
 
 const Votelist = (props) => {
+    // Destructure 
     const {name, cover_photo, popularSong} = props.band;
     return (
+        // Detailed Vote List 
         <div>
             <div className="voting-list">
                 <div>

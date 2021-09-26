@@ -1,0 +1,25 @@
+.footer{
+    background-color: black;
+    padding: 15px;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+.social-icons{
+    margin-right: 5px;
+}
+.fa-facebook-square{
+    color: #1877f2;
+}
+.fa-instagram{
+    color: #c32aa3;
+}
+.fa-youtube{
+    color: red;
+}
+.fa-twitter{
+    color: #1da1f2;
+}
+.fa-linkedin{
+    color: #0a66e2;
+}

@@ -7,6 +7,7 @@
         transform: scale(0.9);
     }
 }
+/* Band Info, Image and Button  */
 .band{
     text-align: center;
     box-shadow: 1px 0 4px gray;
@@ -55,7 +56,7 @@
     font-size: 20px;
     margin-right: 10px;
 }
-.fab:hover{
+.band-info .fab:hover{
     border: 2px solid black;
     border-radius: 50%;
     transition: all 0.5s ease;
@@ -68,10 +69,10 @@
     border-radius: 50%;
     transition: all 0.5 ease;
 }
-.fa-youtube{
+.band-info .fa-youtube{
     color: red;
 }
-.fa-youtube:hover{
+.band-info .fa-youtube:hover{
     border: 2px solid red;
     border-radius: 10px;
     transition: all 0.5s ease;
