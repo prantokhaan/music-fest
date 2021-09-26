@@ -1,0 +1,80 @@
+/* Animation for Images  */
+@keyframes zoomOutIn01{
+    0%,100%{
+        transform: scale(1);
+    }
+    50%{
+        transform: scale(0.9);
+    }
+}
+.band{
+    text-align: center;
+    box-shadow: 1px 0 4px gray;
+    padding: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(112, 109, 109);
+    background-color: rgb(246, 250, 250);
+    border-radius: 5px;
+}
+
+.band-img img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.band-img img:hover{
+    animation: zoomOutIn01 4s linear infinite;
+}
+.band-info b{
+    color: black;
+}
+.band-info h3{
+    color: orangered;
+}
+.band-info h4 i{
+    color: orangered;
+}
+.band-info button{
+    margin-top: 10px;
+    padding: 10px 15px 8px 15px;
+    background-color: orangered;
+    border: 2px solid orangered;
+    border-radius: 2px;
+    color: white;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.band-info button:hover{
+    background-color: transparent;
+    color: orangered;
+    transition: all 0.5s ease;
+    font-weight: bold;
+}
+.fab{
+    padding: 4px;
+    font-size: 20px;
+    margin-right: 10px;
+}
+.fab:hover{
+    border: 2px solid black;
+    border-radius: 50%;
+    transition: all 0.5s ease;
+}
+.fa-facebook{
+    color: #4267B2;
+}
+.fa-facebook:hover{
+    border: 2px solid #4267B2;
+    border-radius: 50%;
+    transition: all 0.5 ease;
+}
+.fa-youtube{
+    color: red;
+}
+.fa-youtube:hover{
+    border: 2px solid red;
+    border-radius: 10px;
+    transition: all 0.5s ease;
+}
+
+

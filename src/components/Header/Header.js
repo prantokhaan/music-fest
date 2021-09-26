@@ -1,7 +1,6 @@
 import React from 'react';
 import './Header.css';
 import logo from '../../utilities/images/logo.png';
-import Festival from '../Festival/Festival';
 
 
 const Header = () => {
@@ -19,7 +18,6 @@ const Header = () => {
                     </div>
                     
                 </nav>
-                <Festival></Festival>
             </div>
             
         </div>
