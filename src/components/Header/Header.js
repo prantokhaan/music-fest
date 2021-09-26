@@ -18,6 +18,7 @@ const Header = () => {
                     </div>
                     
                 </nav>
+                <hr />
             </div>
             
         </div>

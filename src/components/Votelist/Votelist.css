@@ -1,0 +1,53 @@
+@keyframes spin01{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
+.color{
+    color: orangered;
+}
+.voting-list{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 20px;
+    border-bottom: 2px solid rgb(88, 84, 84);
+    box-shadow: 0 2px 5px gray;
+    padding: 5px;
+}
+.voting-list .fas{
+    position: relative;
+    font-size: 30px;
+    color: white;
+    left: 65px;
+    top: 10px;
+}
+.voting-list .fas:hover{
+    display: none;
+}
+.voting-list img{
+    width: 100px;
+    height: 100px;
+    margin-top: 5px;
+    border-radius: 50%;
+    border: 2px solid rgb(182, 180, 180);
+    box-shadow: 0 0 5px rgb(121, 116, 116);
+}
+.voting-list img:hover{
+    animation: spin01 5s linear infinite;
+    transition: all 0.5s ease;
+}
+.song {
+    background-color: orangered;
+    font-size: 15px;
+    padding: 7px;
+    border-radius: 4px;
+    color: white;
+}
+.song:hover{
+    background-color: transparent;
+    color: orangered;
+    border: 2px solid orangered;
+}

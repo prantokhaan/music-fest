@@ -7,7 +7,7 @@
       "genre": "Rock",
       "totalSongs": 17,
       "fee": 40000,
-      "popular_song": "Tamak Pata",
+      "popularSong": "Tamak Pata",
       "cover_photo": "https://i.ibb.co/wpKKfd1/ashesh.jpg"
     },
     {
@@ -18,7 +18,7 @@
       "genre": "Metal",
       "totalSongs": 18,
       "fee": 60000,
-      "popular_song": "Oniket Prantor",
+      "popularSong": "Oniket Prantor",
       "cover_photo": "https://i.ibb.co/ngctqyM/artcell.jpg"
     },
     {
@@ -29,7 +29,7 @@
       "genre": "Rock",
       "totalSongs": 21,
       "fee": 50000,
-      "popular_song": "Ei Obelay",
+      "popularSong": "Ei Obelay",
       "cover_photo": "https://i.ibb.co/h2pznbr/shironamhin.jpg"
     },
     {
@@ -40,7 +40,7 @@
       "genre": "Rock",
       "totalSongs": 31,
       "fee": 20000,
-      "popular_song": "Esho Amar Shohore",
+      "popularSong": "Esho Amar Shohore",
       "cover_photo": "https://i.ibb.co/sJZ0Yhf/meghdol.jpg"
     },
     {
@@ -51,7 +51,7 @@
       "genre": "Groove Metal",
       "totalSongs": 32,
       "fee": 55000,
-      "popular_song": "Odvut Sei Cheleti",
+      "popularSong": "Odvut Sei Cheleti",
       "cover_photo": "https://i.ibb.co/Y8cvR6q/Aurthohin.jpg"
     },
     {
@@ -62,7 +62,7 @@
       "genre": "Alternative Rock",
       "totalSongs": 30,
       "fee": 30000,
-      "popular_song": "Obocheton",
+      "popularSong": "Obocheton",
       "cover_photo": "https://i.ibb.co/r3n7F0f/nemesis.jpg"
     },
     {
@@ -73,7 +73,7 @@
       "genre": "Alternative Rock",
       "totalSongs": 32,
       "fee": 47000,
-      "popular_song": "School",
+      "popularSong": "School",
       "cover_photo": "https://i.ibb.co/q0vcHdZ/arbovirus.jpg"
     },
     {
@@ -84,7 +84,7 @@
       "genre": "Rock",
       "totalSongs": 14,
       "fee": 29500,
-      "popular_song": "Avash Title Track",
+      "popularSong": "Avash Title Track",
       "cover_photo": "https://i.ibb.co/s5v71nT/avash.jpg"
     },
     {
@@ -95,7 +95,7 @@
       "genre": "Pop",
       "totalSongs": 32,
       "fee": 20000,
-      "popular_song": "Behula",
+      "popularSong": "Behula",
       "cover_photo": "https://i.ibb.co/174s7Rq/shunno.jpg"
     },
     {
@@ -106,7 +106,7 @@
       "genre": "Folk",
       "totalSongs": 30,
       "fee": 41500,
-      "popular_song": "Amon Jodi Hoto",
+      "popularSong": "Amon Jodi Hoto",
       "cover_photo": "https://i.ibb.co/smg2QRy/joler-gan.jpg"
     },
     {
@@ -117,7 +117,7 @@
       "genre": "Heavy Metal",
       "totalSongs": 40,
       "fee": 65000,
-      "popular_song": "Purnota",
+      "popularSong": "Purnota",
       "cover_photo": "https://i.ibb.co/xCBdbpy/warfaze.jpg"
     },
     {
@@ -128,7 +128,7 @@
       "genre": "Rock",
       "totalSongs": 4,
       "fee": 10000,
-      "popular_song": "Kotodur",
+      "popularSong": "Kotodur",
       "cover_photo": "https://i.ibb.co/D1NnqBj/adverb.jpg"
     },
     {
@@ -139,7 +139,7 @@
       "genre": "Rock",
       "totalSongs": 4,
       "fee": 15000,
-      "popular_song": "Amar Dehokhan",
+      "popularSong": "Amar Dehokhan",
       "cover_photo": "ttps://i.ibb.co/f915ghD/odd-signature.png"
     },
     {
@@ -150,7 +150,7 @@
       "genre": "Rock",
       "totalSongs": 8,
       "fee": 18000,
-      "popular_song": "Bishonno Sundor",
+      "popularSong": "Bishonno Sundor",
       "cover_photo": "https://i.ibb.co/M8JTzM7/popeye.jpg"
     },
     {
@@ -161,7 +161,7 @@
       "genre": "Rock",
       "totalSongs": 11,
       "fee": 40000,
-      "popular_song": "Je Shohorey Ami Nei",
+      "popularSong": "Je Shohorey Ami Nei",
       "cover_photo": "https://i.ibb.co/0M3mNzB/bay-of-bengal.jpg"
     }
   ]

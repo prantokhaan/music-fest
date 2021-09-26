@@ -1,16 +1,23 @@
 import React, { useEffect, useState } from 'react';
 import Band from '../Band/Band';
+import Vote from '../Vote/Vote';
 import './Bands.css';
 
 
 const Bands = () => {
     const [bands, setBands] = useState([]);
+    const [vote, setVote] = useState([]);
 
     useEffect(() => {
         fetch('./musicbands.JSON')
         .then(res => res.json())
         .then(data => setBands(data));
     }, []);
+
+    const handleVoteButton = band => {
+        const newVote = [...vote, band];
+        setVote(newVote);
+    }
     
     return (
         <div className="bands">
@@ -19,11 +26,13 @@ const Bands = () => {
                     bands.map(band => <Band
                         key={band.id} 
                         band={band}
-                        ></Band>)
+                        handleVoteButton={handleVoteButton}
+                        >  
+                        </Band>)
                 }
             </div>
             <div className="vote-container">
-
+                <Vote vote={vote}></Vote>
             </div>
         </div>
     );
