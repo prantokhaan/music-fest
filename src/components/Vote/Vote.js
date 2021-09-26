@@ -23,7 +23,10 @@ const Vote = (props) => {
             <h5>Total Fee: <b className="color">${fee}</b></h5>
             <hr />
             {
-                vote.map(band => <Votelist band={band}></Votelist>)
+                vote.map(band => <Votelist 
+                    key={band.id}
+                    band={band}
+                    ></Votelist>)
             }
         </div>
     );
