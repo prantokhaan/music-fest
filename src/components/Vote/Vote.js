@@ -21,6 +21,7 @@ const Vote = (props) => {
         <div className="voting">
             <h5>Total Voted: <b className="color">{props.vote.length}</b> bands</h5>
             <h5>Total Fee: <b className="color">${fee}</b></h5>
+            <hr />
             {
                 vote.map(band => <Votelist band={band}></Votelist>)
             }

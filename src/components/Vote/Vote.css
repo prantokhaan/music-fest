@@ -10,3 +10,8 @@
 .voting h5{
     line-height: 30px;
 }
+.voting hr{
+    border: 1px solid orangered;
+    width: 75%;
+    margin-left: 12%;
+}
