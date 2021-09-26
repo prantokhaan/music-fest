@@ -28,8 +28,8 @@ const Band = (props) => {
                                Vote {name}
                         </button>
                         <div>
-                            <i class="fab fa-facebook me-3 mt-3"></i>
-                            <i class="fab fa-youtube"></i>
+                            <i className="fab fa-facebook me-3 mt-3"></i>
+                            <i className="fab fa-youtube"></i>
                         </div>
                     </div>
                 </div>
